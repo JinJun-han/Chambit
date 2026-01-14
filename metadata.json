@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 참빛힐링센터 (True Light Healing Center)",
+  "description": "거제 한화오션 해외근로자들의 한국 생활 정착과 성장을 돕는 따뜻한 보금자리, 참빛힐링센터 랜딩페이지입니다.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
